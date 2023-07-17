@@ -1,6 +1,25 @@
 # real-world-vue3
 
-This template should help get you started developing with Vue 3 in Vite.
+## Git
+
+no git repo
+
+```bash
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BarryCoding/real-world-vue3.git
+git push -u origin main
+```
+
+with git repo
+
+```bash
+git remote add origin https://github.com/BarryCoding/real-world-vue3.git
+git branch -M main
+git push -u origin main
+```
 
 ## Recommended IDE Setup
 
@@ -18,3 +37,4 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 | keyboard        | function        |
 | --------------- | --------------- |
 | cmd + shift + k | delete one line |
+

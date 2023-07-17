@@ -12,12 +12,12 @@ import { RouterLink, RouterView } from 'vue-router'
         </nav>
       </div>
     </header>
-
     <RouterView />
   </div>
 </template>
 
-<style scoped>
+<!-- global style -->
+<style>
 #layout {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
@@ -35,5 +35,9 @@ nav a {
 
 nav a.router-link-exact-active {
   color: #42b983;
+}
+
+h2 {
+  font-size: 20px;
 }
 </style>
